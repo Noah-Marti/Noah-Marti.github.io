@@ -1,5 +1,7 @@
 #+Title: Noah Marti
 
+* Publications
+
 ** Temporal horizons in forecasting: a performance-learnability trade-off
 
 When training autoregressive models to forecast dynamical systems, a critical question arises: how far into the
